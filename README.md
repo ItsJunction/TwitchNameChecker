@@ -1,5 +1,5 @@
 # ![](https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png)  Twitch Name Checker  ![](https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png)
-Checks Twitch names with ease!
+Checks Twitch names with ease and **0** setting up!
 
 ## Usage
 
