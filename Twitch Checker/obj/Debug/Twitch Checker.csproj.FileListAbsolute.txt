@@ -1,0 +1,7 @@
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\bin\Debug\Twitch Checker.exe.config
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\bin\Debug\Twitch Checker.exe
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\bin\Debug\Twitch Checker.pdb
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\obj\Debug\Twitch Checker.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\obj\Debug\Twitch Checker.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\obj\Debug\Twitch Checker.exe
+C:\Users\Public\source\repos\Twitch Checker\Twitch Checker\obj\Debug\Twitch Checker.pdb
