@@ -63,7 +63,7 @@ namespace Twitch_Checker
                             Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine($"{name} is untaken!");
                             File.AppendAllText("untaken.txt", $"{name}\n");
-                            Console.WriteLine(result);
+                            //Console.WriteLine(result);
                         }
                     }
                 }
