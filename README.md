@@ -13,6 +13,7 @@ To use this put your names into names.txt and run Twitch Checker.exe. This will 
 __Support me!__
 
 PayPal: https://paypal.me/Junct
+
 BTC: 1Kja1viWdo9PLTZQA7hj3MTsZGkTaCUJGg
 ETH: 0x44cCcb5bbEBdfCb722842780d4Cbe1fe494ec8Bf
 
