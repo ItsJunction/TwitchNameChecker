@@ -18,4 +18,4 @@ BTC: 1Kja1viWdo9PLTZQA7hj3MTsZGkTaCUJGg
 
 ETH: 0x44cCcb5bbEBdfCb722842780d4Cbe1fe494ec8Bf
 
-Made in my spare time, all donations are fine. <3
+Made in my spare time, donating **IS NOT** mandatory!
