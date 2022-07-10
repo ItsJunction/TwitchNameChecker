@@ -8,6 +8,4 @@ Checks Twitch names with ease and **0** setting up! This checker shouldn't hit r
 
 To use this put your names into names.txt and run Twitch Checker.exe. This will output all the names to "Untaken.txt"
 
-## Credit
-
 © 2021 ItsJunction
